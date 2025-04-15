@@ -1,0 +1,24 @@
+@font-face{
+    font-family: "LektonRegular";
+    src: url("Lekton-Regular.ttf");
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    height: 100%;
+}
+
+#container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+#canvas{
+    cursor: pointer;
+}
