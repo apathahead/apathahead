@@ -22,3 +22,14 @@ html, body{
 #canvas{
     cursor: pointer;
 }
+
+#info{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    font-size: 10pt;
+}
+
+#info a{
+    color: inherit;
+}
